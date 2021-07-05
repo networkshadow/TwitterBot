@@ -18,6 +18,6 @@ namespace TwitterBot.Utility
         private static string access_token_secret = "";
 
         //Callable TwitterService object
-        public static TwitterService Service = new TwitterService(consumer_key, consumer_key_secret, access_token, access_token_secret);
+        public static TwitterService Service { get; } = new TwitterService(consumer_key, consumer_key_secret, access_token, access_token_secret);
     }
 }
