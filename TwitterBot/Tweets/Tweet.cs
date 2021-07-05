@@ -89,8 +89,6 @@ namespace TwitterBot.Tweets
 
             var findTweetContains = "Trump";
 
-            
-
             foreach (var tweet in allTweets)
             {
                 if (tweet.Text.Contains(findTweetContains))
