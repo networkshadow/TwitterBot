@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\bin\Debug\TwitterBot.exe.config
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\bin\Debug\TwitterBot.exe
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\bin\Debug\TwitterBot.pdb
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\bin\Debug\TweetSharp.dll
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\bin\Debug\TweetSharp.pdb
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\obj\Debug\TwitterBot.csprojAssemblyReference.cache
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\obj\Debug\TwitterBot.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\obj\Debug\TwitterBot.csproj.CopyComplete
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\obj\Debug\TwitterBot.exe
+C:\Users\logan\source\repos\TwitterBot\TwitterBot\obj\Debug\TwitterBot.pdb
